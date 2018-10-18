@@ -8,7 +8,7 @@ __Preraffaelliti —> Secessioni__
 - [x] Impressionismo
 - [x] Postimpressionismo
 - [x] Simbolismo
-- [ ] Divisionismo
+- [x] Divisionismo
 - [ ] Secessioni  
 
 __Avanguardie Storiche —> Arte fra le due guerre__
