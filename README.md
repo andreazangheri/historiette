@@ -1,6 +1,6 @@
 # historiette
 
-__Preraffaelliti —> Secessioni__
+## Preraffaelliti —> Secessioni
 
 - [x] Preraffaelliti
 - [x] Realismo
@@ -9,9 +9,9 @@ __Preraffaelliti —> Secessioni__
 - [x] Postimpressionismo
 - [x] Simbolismo
 - [x] Divisionismo
-- [ ] Secessioni  
+- [x] Secessioni  
 
-__Avanguardie Storiche —> Arte fra le due guerre__
+## Avanguardie Storiche —> Arte fra le due guerre
 
 - [ ] Espressionismo
 - [ ] Cavaliere Azzurro: Der Blaue Reiter
@@ -31,7 +31,7 @@ __Avanguardie Storiche —> Arte fra le due guerre__
 - [ ] Astrattismo: Calder, Moore, Hans
 - [ ] Muralismo
 
-__Arte del dopoguerra —> Video Arte__
+## Arte del dopoguerra —> Video Arte
 
 - [ ] Neorealismo italiano
 - [ ] Informale
