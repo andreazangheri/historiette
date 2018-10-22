@@ -13,9 +13,9 @@
 
 ## Avanguardie Storiche —> Arte fra le due guerre
 
-- [ ] Espressionismo
-- [ ] Cavaliere Azzurro: Der Blaue Reiter
-- [ ] Cubismo
+- [x] Espressionismo
+- [x] Cavaliere Azzurro: Der Blaue Reiter
+- [x] Cubismo
 - [ ] Futurismo
 - [ ] Avanguardie russe: Suprematismo, Costruttivismo
 - [ ] De Stijl, Neoplasticismo
