@@ -16,10 +16,10 @@
 - [x] Espressionismo
 - [x] Cavaliere Azzurro: Der Blaue Reiter
 - [x] Cubismo
-- [ ] Futurismo
-- [ ] Avanguardie russe: Suprematismo, Costruttivismo
-- [ ] De Stijl, Neoplasticismo
-- [ ] Bauhaus
+- [x] Futurismo
+- [x] Avanguardie russe: Suprematismo, Costruttivismo
+- [x] De Stijl, Neoplasticismo
+- [x] Bauhaus
 - [ ] Dadaismo
 - [ ] Surrealismo
 - [ ] Art Déco
