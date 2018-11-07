@@ -20,8 +20,9 @@
 - [x] Avanguardie russe: Suprematismo, Costruttivismo
 - [x] De Stijl, Neoplasticismo
 - [x] Bauhaus
-- [ ] Dadaismo
-- [ ] Surrealismo
+- [x] Dadaismo
+- [x] Surrealismo
+- [ ] Avanguardie vs Modernismo
 - [ ] Art Déco
 - [ ] Metafisica
 - [ ] Espressionismo tedesco
@@ -31,17 +32,29 @@
 - [ ] Astrattismo: Calder, Moore, Hans
 - [ ] Muralismo
 
-## Arte del dopoguerra —> Video Arte
+## Arte del dopoguerra —> Arte relazionale
 
 - [ ] Neorealismo italiano
 - [ ] Informale
 - [ ] Espressionismo Astratto
+- [ ] Gutai
+- [ ] Colorfield painting
 - [ ] Arte Cinetica, Optical art
 - [ ] New Dada, Pop art, Nouveau Réalisme
 - [ ] Klein, Manzoni
+- [ ] Neoavanguardie e poesia
 - [ ] Minimal art
 - [ ] Arte Processuale, Land art
 - [ ] Arte Concettuale
 - [ ] Arte Povera, Neoavanguardie
 - [ ] Happening, Performance, Comportamento
+- [ ] Broodthaers
+- [ ] Transavanguardia
+- [ ] Poststrutturalismo: Shermann, levine
+- [ ] Postconcettuale
+- [ ] Postconcettuale politico: genere e identità
+- [ ] Uso del corpo: posthuman
+- [ ] Nuova scultura
 - [ ] Video arte
+- [ ] Pittura anni '90
+- [ ] Arte relazionale
