@@ -1,4 +1,9 @@
-# historiette
+<h1 align="center">
+  <a href="./assets/icon.png"><img src="./assets/icon.png" alt="Historiette Icon" width="200"></a>
+  <br>
+  <br>
+  Historiette
+</h1>
 
 ## Preraffaelliti —> Secessioni
 
