@@ -22,11 +22,13 @@
 - [x] Bauhaus
 - [x] Dadaismo
 - [x] Surrealismo
-- [ ] Avanguardie vs Modernismo
-- [ ] Art Déco
-- [ ] Metafisica
+- [x] Avanguardie vs Modernismo
+- [x] Art Déco
+- [x] Metafisica
+- [x] Valori Plastici
 - [ ] Espressionismo tedesco
 - [ ] Novecento
+- [ ] Anni '30
 - [ ] Cercle et Carré
 - [ ] Abstraction-Création
 - [ ] Astrattismo: Calder, Moore, Hans
