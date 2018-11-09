@@ -31,13 +31,13 @@
 - [x] Art Déco
 - [x] Metafisica
 - [x] Valori Plastici
-- [ ] Espressionismo tedesco
-- [ ] Novecento
+- [x] Espressionismo tedesco
+- [x] Novecento
 - [ ] Anni '30
 - [ ] Cercle et Carré
 - [ ] Abstraction-Création
 - [ ] Astrattismo: Calder, Moore, Hans
-- [ ] Muralismo
+- [x] Muralismo
 
 ## Arte del dopoguerra —> Arte relazionale
 
