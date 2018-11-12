@@ -38,14 +38,14 @@
 - [ ] Abstraction-Création
 - [ ] Astrattismo: Calder, Moore, Hans
 - [x] Muralismo
-
-## Arte del dopoguerra —> Arte relazionale
-
 - [ ] Neorealismo italiano
 - [ ] Informale
 - [ ] Espressionismo Astratto
 - [ ] Gutai
 - [ ] Colorfield painting
+
+## Arte del dopoguerra —> Arte relazionale
+
 - [ ] Arte Cinetica, Optical art
 - [ ] New Dada, Pop art, Nouveau Réalisme
 - [ ] Klein, Manzoni
@@ -63,5 +63,5 @@
 - [ ] Uso del corpo: posthuman
 - [ ] Nuova scultura
 - [ ] Video arte
-- [ ] Pittura anni '90
+- [ ] Ritorno alla pittura
 - [ ] Arte relazionale
