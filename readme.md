@@ -33,10 +33,10 @@
 - [x] Valori Plastici
 - [x] Espressionismo tedesco
 - [x] Novecento
-- [ ] Anni '30
-- [ ] Cercle et Carré
-- [ ] Abstraction-Création
-- [ ] Astrattismo: Calder, Moore, Hans
+- [x] Anni '30
+- [x] Cercle et Carré
+- [x] Abstraction-Création
+- [x] Astrattismo: Calder, Moore, Hans
 - [x] Muralismo
 - [ ] Neorealismo italiano
 - [ ] Informale
