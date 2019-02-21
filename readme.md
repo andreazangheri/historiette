@@ -38,30 +38,30 @@
 - [x] Abstraction-Création
 - [x] Astrattismo: Calder, Moore, Hans
 - [x] Muralismo
-- [ ] Neorealismo italiano
-- [ ] Informale
-- [ ] Espressionismo Astratto
-- [ ] Gutai
-- [ ] Colorfield painting
+- [x] Neorealismo italiano
+- [x] Informale
+- [x] Espressionismo Astratto
+- [x] Gutai
+- [x] Colorfield painting
 
 ## Arte del dopoguerra —> Arte relazionale
 
-- [ ] Arte Cinetica, Optical art
-- [ ] New Dada, Pop art, Nouveau Réalisme
-- [ ] Klein, Manzoni
-- [ ] Neoavanguardie e poesia
-- [ ] Minimal art
-- [ ] Arte Processuale, Land art
-- [ ] Arte Concettuale
-- [ ] Arte Povera, Neoavanguardie
-- [ ] Happening, Performance, Comportamento
-- [ ] Broodthaers
-- [ ] Transavanguardia
-- [ ] Poststrutturalismo: Shermann, levine
-- [ ] Postconcettuale
-- [ ] Postconcettuale politico: genere e identità
-- [ ] Uso del corpo: posthuman
-- [ ] Nuova scultura
-- [ ] Video arte
-- [ ] Ritorno alla pittura
-- [ ] Arte relazionale
+- [x] Arte Cinetica, Optical art
+- [x] New Dada, Pop art, Nouveau Réalisme
+- [x] Klein, Manzoni
+- [x] Neoavanguardie e poesia
+- [x] Minimal art
+- [x] Arte Processuale, Land art
+- [x] Arte Concettuale
+- [x] Arte Povera, Neoavanguardie
+- [x] Happening, Performance, Comportamento
+- [x] Broodthaers
+- [x] Transavanguardia
+- [x] Poststrutturalismo: Shermann, levine
+- [x] Postconcettuale
+- [x] Postconcettuale politico: genere e identità
+- [x] Uso del corpo: posthuman
+- [x] Nuova scultura
+- [x] Video arte
+- [x] Ritorno alla pittura
+- [x] Arte relazionale
